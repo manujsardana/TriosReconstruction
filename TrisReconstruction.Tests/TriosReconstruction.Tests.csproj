@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\manuj\Source\Repos\TriosReconstruction\TriosReconstruction.csproj" />
+    <ProjectReference Include="..\TriosReconstruction.csproj" />
   </ItemGroup>
 
 </Project>
