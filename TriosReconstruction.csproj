@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="TrisReconstruction.Tests\**" />
+    <EmbeddedResource Remove="TrisReconstruction.Tests\**" />
+    <None Remove="TrisReconstruction.Tests\**" />
+  </ItemGroup>
+
 </Project>
